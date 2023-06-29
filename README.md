@@ -23,7 +23,7 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik94229&show_icons=true&locale=en&layout=compact" alt="pratik94229" width="400" height="400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik94229&show_icons=true&locale=en&layout=compact" alt="pratik94229" width="350" height="350" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik94229&show_icons=true&locale=en&layout=compact" alt="pratik94229" width="450" height="450" /></p>
 
 
