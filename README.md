@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
 
-- I’m currently learning **Image Processing, Object Deetection,Natural Language Processing (NLP) and Generative AI**
+- I’m currently learning **Image Processing, Object Detection,Natural Language Processing (NLP) and Generative AI**
 - All of my projects are available at [https://github.com/Pratik94229](https://github.com/Pratik94229)
 - Ask me about **Machine Learning,Deep Learning, Statistics etc**
 - How to reach me :- **pratik.941@gmail.com**
