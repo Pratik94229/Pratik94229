@@ -9,7 +9,7 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
 
 - All of my projects are available at [https://github.com/Pratik94229](https://github.com/Pratik94229)
   
-- Ask me about **Machine Learning,Deep Learning, Statistics etc**
+- Ask me about **Machine Learning,Deep Learning, Finance,Economics,Statistics, etc**
   
 - How to reach me :- **pratik.941@gmail.com**
 
