@@ -1,4 +1,4 @@
-![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3913367_571zmtklyqq8oje92r0laezzmoq1nzb1j6b9vrgi_machine-learning-ai-minimal-infographic-banner-vector.jpg)
+![MasterHead](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040101/Linkedin_Cover_-_Data-Driven_t1tqsx.png)
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Aspiring data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
