@@ -27,7 +27,7 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik94229&" alt="pratik94229" /></p>
 
-![](https://komarev.com/ghpvc/?username=Pratik94229&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 
 
