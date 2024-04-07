@@ -1,6 +1,6 @@
 ![MasterHead](https://www.clearrisk.com/hubfs/data%20analytics%20challenges.jpg)
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">Aspiring data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science!</h3>
+<h3 align="center">Full-stack Java developer and data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science and Java development!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
 
 
