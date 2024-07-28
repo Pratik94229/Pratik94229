@@ -1,4 +1,3 @@
-![MasterHead](https://www.clearrisk.com/hubfs/data%20analytics%20challenges.jpg)
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm <span style="background: #121FCF;
 background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
@@ -8,7 +7,7 @@ background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
 <h3 align="center">I'm a passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamxsingh&label=Profile%20views&color=0e75b6&style=flat" alt="shivamxsingh" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shivaaam35" target="blank"><img src="https://img.shields.io/twitter/follow/shivaaam35?logo=twitter&style=for-the-badge" alt="shivaaam35" /></a> </p>
 <h1 align="center">Hi 👋, I'm Pratik</h1>
