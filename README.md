@@ -1,9 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 
 
-
-
-<p align="left"> <a href="https://twitter.com/shivaaam35" target="blank"><img src="https://img.shields.io/twitter/follow/shivaaam35?logo=twitter&style=for-the-badge" alt="shivaaam35" /></a> </p>
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Full-stack Java developer and data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science and Java development!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
