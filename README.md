@@ -13,7 +13,7 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
   
 - Ask me about **Machine Learning,Deep Learning, Finance,Economics,Statistics, etc**
   
-- How to reach me :- **pratik.941@gmail.com**
+- How to reach me :- **pratik.941@gmail.com** or **https://medium.com/@pratik.941**
 
 
 
