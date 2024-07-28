@@ -1,8 +1,4 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm <span style="background: #121FCF;
-background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
 
 
 
