@@ -3,9 +3,7 @@
 background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-">Pratik Thorat</span></h1>
-<h3 align="center">I'm a passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
