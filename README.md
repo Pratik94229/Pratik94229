@@ -33,7 +33,6 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" alt="postgresql" width="40" height="40"/>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://ronlynn.com/images/integrations/Power-BI-logo.jpg" alt="PowerBI" width="70" height="40"/>
- 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" alt="NLTK" width="40" height="40"/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
