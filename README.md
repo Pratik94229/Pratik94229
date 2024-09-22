@@ -10,7 +10,7 @@
   <a href="https://medium.com/@pratik.941">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pratik94229&style=flat-square&color=blue" alt="Profile Views" width="90" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=Pratik94229&style=flat-square&color=blue" alt="Profile Views" width="100" height="28"/>
 </div>
 
 <h4 align="center">
