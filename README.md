@@ -1,8 +1,20 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 
 
+
+
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">Full-stack Java developer and data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science and Java development!</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pratik-thorat94229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@pratik.941">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pratik94229&style=flat-square&color=blue" alt="" width="90" height="28"/>
+</div>
+
+<h4 align="center">Full-stack Java developer and data scientist with a passion for leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Committed to continuous learning and exploring innovative approaches to extract value from data. Check out my GitHub repositories for projects and collaborations in the world of data science and Java development!</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
 
 
@@ -40,12 +52,18 @@ I’m currently learning Image Processing, Object Detection,Natural Language Pro
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <a href=" https://www.mongodb.com/" target="_blank" rel="noreferrer">   
 </p>
+</br>
+
+
+### :fire: My Stats :
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik94229&show_icons=true&locale=en&layout=compact" alt="pratik94229" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik94229&show_icons=true&locale=en" alt="pratik94229" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik94229&" alt="pratik94229" /></p>
+
 
 
 
