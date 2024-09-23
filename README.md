@@ -37,7 +37,7 @@
 
 ### 📧 Contact Me:
 - Email: **pratik.941@gmail.com**
-- Medium: **[pratik.941](https://medium.com/@pratik.941)**
+- Medium: **[Medium Link](https://medium.com/@pratik.941)**
 
 ---
 
