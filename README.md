@@ -1,7 +1,6 @@
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 
-<h1 align="center">Hello 👋, I'm Pratik</h1>
+<h1 align="center">Hello 👋, I'm Pratik Thorat</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pratik-thorat94229/">
@@ -14,51 +13,52 @@
 </div>
 
 <h4 align="center">
-  I'm a Full-Stack Java Developer and Data Scientist passionate about leveraging data to drive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. I am committed to continuous learning and exploring innovative approaches to extract value from data.
-  <br>Check out my GitHub repositories for projects and collaborations in the realms of data science and Java development!
+  I'm a Full-Stack Java Developer and Data Scientist with a passion for leveraging data to drive impactful insights and solve complex challenges. With hands-on experience in machine learning, statistical analysis, and data visualization, I am committed to continuous learning and innovation in the field of data science and software development.
 </h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ### 🧠 Currently Learning:
-- Image Processing
-- Object Detection
-- Natural Language Processing (NLP)
-- Generative AI
+- **Image Processing**: Enhancing visual data analysis techniques.
+- **Object Detection**: Developing robust models for identifying objects in images and videos.
+- **Natural Language Processing (NLP)**: Exploring language understanding and generation.
+- **Generative AI**: Experimenting with AI techniques to create new content.
 
 ### 📂 Projects
-- All of my projects can be found at [GitHub](https://github.com/Pratik94229).
+Check out my GitHub repositories for my projects, including:
+- **[Data Science Projects](https://github.com/Pratik94229)**: Various machine learning and data analysis projects.
+- **[Java Development](https://github.com/Pratik94229)**: Full-stack applications utilizing Java and Spring Boot.
 
 ### 🤝 Ask Me About:
-- Machine Learning
-- Deep Learning
-- Finance & Economics
-- Statistics
+- **Machine Learning**: Supervised and unsupervised learning techniques.
+- **Deep Learning**: Neural networks and their applications.
+- **Finance & Economics**: Analyzing financial data and trends.
+- **Statistics**: Applying statistical methods for data analysis.
 
 ### 📧 Contact Me:
-- Email: **pratik.941@gmail.com**
-- Medium: **[Medium Link](https://medium.com/@pratik.941)**
+- **Email**: [pratik.941@gmail.com](mailto:pratik.941@gmail.com)
+- **Medium**: [Read my articles](https://medium.com/@pratik.941)
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png" alt="java" width="60" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.opencodez.com/wp-content/uploads/2016/09/spring-boot.png" alt="springboot" width="80" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="80" height="50"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/press/presskit/postgresql_logo.png" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://ronlynn.com/images/integrations/Power-BI-logo.jpg" alt="PowerBI" width="70" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png" alt="Java" width="60" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.opencodez.com/wp-content/uploads/2016/09/spring-boot.png" alt="Spring Boot" width="80" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" width="80" height="50"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/press/presskit/postgresql_logo.png" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://ronlynn.com/images/integrations/Power-BI-logo.jpg" alt="Power BI" width="70" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.nltk.org/images/nltk_logo.png" alt="NLTK" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/assets/images/opencv_logo_wide_2x.png" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/assets/images/opencv_logo_wide_2x.png" alt="OpenCV" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a>
 </p>
 
 ---
